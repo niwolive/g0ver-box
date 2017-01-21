@@ -1,5 +1,12 @@
 # g0vhub
 
+## Environment Variables
+
+* DATABASE_URL (required)
+* SLACK_TOKEN
+* SLACK_BOT_ID
+* PORT
+
 ## Dependencies
 
 * nodemon
